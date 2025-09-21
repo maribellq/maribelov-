@@ -1,0 +1,15 @@
+# создать список и добавить в него элементы
+import java.util.Stack;
+public class StackExample {
+    public static void main(String[] args) {
+        // Создаём пустой стек
+        Stack<Integer> stack = new Stack<>();
+        // Добавляем элементы в стек (аналог append в Python)
+        stack.push(10);
+        stack.push(20);
+        stack.push(30);
+        stack.push(40);
+        // Выводим содержимое стека
+        System.out.println("Содержимое стека: " + stack);
+    }
+}
