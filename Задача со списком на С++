@@ -1,0 +1,27 @@
+# Задача: Дан список ['s', '7', 'c', '3', 'f', '9']. Разбейте его на два списка: только с буквами и только с числами. Сам список затем удалите, а новые списки выведите на экран, каждый на отдельной строке на языке программирования C++
+int main() {
+    // Исходный список символов
+    std::list<char> original = {'s', '7', 'c', '3', 'f', '9'};
+    std::vector<char> letters;  // для букв
+    std::vector<char> digits;   // для цифр
+    // Разбиение на два списка
+    for (char ch : original) {
+        if (std::isdigit(static_cast<unsigned char>(ch))) {
+            digits.push_back(ch);
+        } else if (std::isalpha(static_cast<unsigned char>(ch))) {
+            letters.push_back(ch);
+        }
+    }
+    // Очистка исходного списка
+    original.clear();
+    // Вывод списков
+    for (char ch : letters) {
+        std::cout << ch << " ";
+    }
+    std::cout << std::endl;
+    for (char ch : digits) {
+        std::cout << ch << " ";
+    }
+    std::cout << std::endl;
+    return 0;
+}
