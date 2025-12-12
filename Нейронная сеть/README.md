@@ -128,6 +128,11 @@ Metrics: accuracy
     - Вычисление градиентов через chain rule
     - Обновление весов: w = w - η * ∇L(w)
 <img width="1522" height="805" alt="image" src="https://github.com/user-attachments/assets/7abd6dfa-6954-4240-9439-49ead81a1dd6" />
+<img width="1605" height="550" alt="image" src="https://github.com/user-attachments/assets/9164786a-344b-41dc-9651-b8efc2c89359" />
+<img width="1372" height="489" alt="image" src="https://github.com/user-attachments/assets/fb56f914-422d-4378-975d-62ce8bd67111" />
+<img width="1354" height="494" alt="image" src="https://github.com/user-attachments/assets/824678f1-f2a0-44e1-9300-9b576ae8cdbc" />
+<img width="788" height="701" alt="image" src="https://github.com/user-attachments/assets/6a50cf3a-18ff-486f-b3f3-b524183c6981" />
+
 
 
 
