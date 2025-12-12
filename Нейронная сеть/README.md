@@ -127,6 +127,7 @@ Metrics: accuracy
 12. ОБРАТНОЕ РАСПРОСТРАНЕНИЕ:
     - Вычисление градиентов через chain rule
     - Обновление весов: w = w - η * ∇L(w)
+<img width="1522" height="805" alt="image" src="https://github.com/user-attachments/assets/7abd6dfa-6954-4240-9439-49ead81a1dd6" />
 
 
 
