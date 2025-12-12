@@ -132,6 +132,10 @@ Metrics: accuracy
 <img width="1372" height="489" alt="image" src="https://github.com/user-attachments/assets/fb56f914-422d-4378-975d-62ce8bd67111" />
 <img width="1354" height="494" alt="image" src="https://github.com/user-attachments/assets/824678f1-f2a0-44e1-9300-9b576ae8cdbc" />
 <img width="788" height="701" alt="image" src="https://github.com/user-attachments/assets/6a50cf3a-18ff-486f-b3f3-b524183c6981" />
+Визуализация фильтров первого сверточного слоя:
+<img width="1478" height="788" alt="image" src="https://github.com/user-attachments/assets/fa9b5ab3-6143-41aa-892b-c399c77c8dbb" />
+<img width="1478" height="789" alt="image" src="https://github.com/user-attachments/assets/0f753a33-7b43-4a40-99b2-973e3c9492ab" />
+<img width="1365" height="628" alt="image" src="https://github.com/user-attachments/assets/1564fa65-4e41-48d6-a226-73a8878faf04" />
 
 
 
